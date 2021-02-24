@@ -1,6 +1,7 @@
 import random
 import Function as Fn
-# set input
+
+# setup input
 print('How many capacity of process : ')
 cap = int(input())
 print('How many frame : ')
